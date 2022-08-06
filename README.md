@@ -1,5 +1,7 @@
 # Computer Language Paradigms
 
+Codes for IF686 (Computer Language Paradigms) discipline.
+
 ### ✅ Provas:
 - <details>
     <summary>
