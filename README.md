@@ -1,5 +1,15 @@
 # Computer Language Paradigms
 
+### ✅ Provas:
+- <details>
+    <summary>
+      2018
+    </summary>
+    
+    - [[Final] 2018.1](https://github.com/mateuseap/computer-language-paradigms/tree/main/Provas/2018.1/%5BFinal%5D%202018.1)
+  </details>
+
+
 ### :clipboard: Haskell:
 - [Aula 1](https://github.com/mateuseap/computer-language-paradigms/tree/main/Haskell/Aula%201)
 - [Aula 2](https://github.com/mateuseap/computer-language-paradigms/tree/main/Haskell/Aula%202)
