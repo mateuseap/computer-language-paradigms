@@ -5,6 +5,14 @@ Codes for IF686 (Computer Language Paradigms) discipline.
 ### ✅ Provas:
 - <details>
     <summary>
+      2017
+    </summary>
+    
+    - [[Segunda Chamada] 2017.2](https://github.com/mateuseap/computer-language-paradigms/tree/main/Provas/2017.2/%5BSegunda%20Chamada%5D%202017.2)
+  </details>
+
+- <details>
+    <summary>
       2018
     </summary>
     
