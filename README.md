@@ -70,6 +70,18 @@ Codes for IF686 (Computer Language Paradigms) discipline.
     - [K. Árvore de busca binária 2](https://github.com/mateuseap/computer-language-paradigms/blob/main/Listas/Lista%202/k.hs)
     - [L. Calculadora](https://github.com/mateuseap/computer-language-paradigms/blob/main/Listas/Lista%202/l.hs)
   </details>
+  
+ 
+- <details>
+    <summary>
+      Lista 3
+    </summary>
+    
+    - [Perguntas](https://github.com/mateuseap/computer-language-paradigms/blob/main/Listas/Lista%203/Perguntas.pdf)
+    - [Q1](https://github.com/mateuseap/computer-language-paradigms/tree/main/Listas/Lista%203/Q1)
+    - [Q3](https://github.com/mateuseap/computer-language-paradigms/tree/main/Listas/Lista%203/Q3)
+    - [Q4](https://github.com/mateuseap/computer-language-paradigms/tree/main/Listas/Lista%203/Q4)
+  </details>
 
 ### :clipboard: Haskell:
 - [Aula 1](https://github.com/mateuseap/computer-language-paradigms/tree/main/Haskell/Aula%201)
